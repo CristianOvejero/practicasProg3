@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB39655-A505-4DBB-A55D-E97F47F67A34}|Program15\\Program15.csproj|c:\\users\\cami\\desktop\\prog\\ejemplo3\\program15\\program15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB39655-A505-4DBB-A55D-E97F47F67A34}|Program15\\Program15.csproj|solutionrelative:program15\\program15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program11\\Program11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program11\\Program11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD963C-3396-4BAE-BA17-782778B192F3}|Program12\\Program12.csproj|c:\\users\\cami\\desktop\\prog\\ejemplo3\\program12\\program12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD963C-3396-4BAE-BA17-782778B192F3}|Program12\\Program12.csproj|solutionrelative:program12\\program12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C9FCA9-1A32-4B8B-ACB9-A7E3CA667C2C}|Program14\\Program14.csproj|c:\\users\\cami\\desktop\\prog\\ejemplo3\\program14\\program14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C9FCA9-1A32-4B8B-ACB9-A7E3CA667C2C}|Program14\\Program14.csproj|solutionrelative:program14\\program14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69965DC1-0769-4F27-9936-4E9AEDD9C048}|Program13\\Program13.csproj|c:\\users\\cami\\desktop\\prog\\ejemplo3\\program13\\program13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69965DC1-0769-4F27-9936-4E9AEDD9C048}|Program13\\Program13.csproj|solutionrelative:program13\\program13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program15.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program15\\Program15.cs",
+              "RelativeDocumentMoniker": "Program15\\Program15.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program15\\Program15.cs",
+              "RelativeToolTip": "Program15\\Program15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T04:45:16.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program14.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program14\\Program14.cs",
+              "RelativeDocumentMoniker": "Program14\\Program14.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program14\\Program14.cs",
+              "RelativeToolTip": "Program14\\Program14.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T04:41:33.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program13.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program13\\Program13.cs",
+              "RelativeDocumentMoniker": "Program13\\Program13.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program13\\Program13.cs",
+              "RelativeToolTip": "Program13\\Program13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T04:38:02.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program12.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program12\\Program12.cs",
+              "RelativeDocumentMoniker": "Program12\\Program12.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program12\\Program12.cs",
+              "RelativeToolTip": "Program12\\Program12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T04:26:07.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program11.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program11\\Program11.cs",
+              "RelativeDocumentMoniker": "Program11\\Program11.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\prog\\Ejemplo3\\Program11\\Program11.cs",
+              "RelativeToolTip": "Program11\\Program11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T03:52:09.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\bin\Debug\net10.0\Program13.exe
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\bin\Debug\net10.0\Program13.deps.json
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\bin\Debug\net10.0\Program13.runtimeconfig.json
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\bin\Debug\net10.0\Program13.dll
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\bin\Debug\net10.0\Program13.pdb
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\Program13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\Program13.AssemblyInfoInputs.cache
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\Program13.AssemblyInfo.cs
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\Program13.csproj.CoreCompileInputs.cache
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\Program13.dll
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\refint\Program13.dll
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\Program13.pdb
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\Program13.genruntimeconfig.cache
+C:\Users\CAMI\Desktop\prog\Ejemplo3\Program13\obj\Debug\net10.0\ref\Program13.dll

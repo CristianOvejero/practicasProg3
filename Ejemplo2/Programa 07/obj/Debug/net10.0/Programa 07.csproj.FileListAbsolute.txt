@@ -1,0 +1,14 @@
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\bin\Debug\net10.0\Programa 07.exe
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\bin\Debug\net10.0\Programa 07.deps.json
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\bin\Debug\net10.0\Programa 07.runtimeconfig.json
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\bin\Debug\net10.0\Programa 07.dll
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\bin\Debug\net10.0\Programa 07.pdb
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\Programa 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\Programa 07.AssemblyInfoInputs.cache
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\Programa 07.AssemblyInfo.cs
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\Programa 07.csproj.CoreCompileInputs.cache
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\Programa 07.dll
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\refint\Programa 07.dll
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\Programa 07.pdb
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\Programa 07.genruntimeconfig.cache
+C:\Users\CAMI\Desktop\Ejemplo2\Ejemplo2\Programa 07\obj\Debug\net10.0\ref\Programa 07.dll
