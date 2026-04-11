@@ -4,21 +4,21 @@ class Program33
 {
     static void Main(string[] args)
     {
-        const string NOMBRE_APP = "Montaña rusa";
+        const string NOMBRE_JUEGO = "Montaña rusa";
         const double ALTURA_MINIMA = 150;
 
-        Console.WriteLine("=== " + NOMBRE_APP + " ===");
-        Console.WriteLine("Restricción: Altura mínima de " + ALTURA_MINIMA + " centimetros.");
+        Console.WriteLine("=== " + NOMBRE_JUEGO + " ===");
+        Console.WriteLine("Restricción: Altura minima de " + ALTURA_MINIMA + " centimetros.");
 
-        Console.Write("Ingrese su altura en centimetros por favor ");
-        double alturaCliente = double.Parse(Console.ReadLine());
+        Console.Write("Ingresa tu altura en centimetros por favor ");
+        double altura = double.Parse(Console.ReadLine());
 
-        bool puedeIngresar = alturaCliente >= ALTURA_MINIMA;
+        bool puedeIngresar = altura >= ALTURA_MINIMA;
 
-        Console.WriteLine("Tu altura es: " + alturaCliente + " m");
+        Console.WriteLine("Tu altura es: " + altura + " m");
         Console.WriteLine("¿Puede ingresar?: " + puedeIngresar);
 
-        Console.WriteLine("\nPresiona ENTER para cerrar.");
+        Console.WriteLine("Presiona ENTER para cerrar.");
         Console.ReadLine();
     }
 }

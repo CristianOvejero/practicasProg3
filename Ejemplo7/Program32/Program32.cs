@@ -10,7 +10,7 @@ class Program32
         Console.WriteLine("=== " + NOMBRE_APP + " ===");
         Console.WriteLine("Restricción: Mayores de " + EDAD_MINIMA + " años.");
 
-        Console.Write("Ingrese su edad: ");
+        Console.Write("Ingresa tu edad: ");
         int edadCliente = int.Parse(Console.ReadLine());
 
         bool puedeIngresar = edadCliente >= EDAD_MINIMA;

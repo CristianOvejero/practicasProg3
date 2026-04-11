@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9F139-0E0D-49DA-A0A6-C2722455A009}|Program40\\Program40.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo8\\program40\\program40.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B9F139-0E0D-49DA-A0A6-C2722455A009}|Program40\\Program40.csproj|solutionrelative:program40\\program40.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B35974E-5E28-4743-B2C3-38D7F69FD695}|Program39\\Program39.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo8\\program39\\program39.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B35974E-5E28-4743-B2C3-38D7F69FD695}|Program39\\Program39.csproj|solutionrelative:program39\\program39.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787C6EF9-B8CA-4ECE-8089-29D847092CA3}|Program38\\Program38.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo8\\program38\\program38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787C6EF9-B8CA-4ECE-8089-29D847092CA3}|Program38\\Program38.csproj|solutionrelative:program38\\program38.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F55D59C0-04C4-4A6B-9689-1CC7CFAD57F7}|Program37\\Program37.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo8\\program37\\program37.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F55D59C0-04C4-4A6B-9689-1CC7CFAD57F7}|Program37\\Program37.csproj|solutionrelative:program37\\program37.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AA76582-FFFD-4389-8F66-BFFCA53FAC33}|Programa36\\Programa36.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo8\\programa36\\program36.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AA76582-FFFD-4389-8F66-BFFCA53FAC33}|Programa36\\Programa36.csproj|solutionrelative:programa36\\program36.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program40.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program40\\Program40.cs",
+              "RelativeDocumentMoniker": "Program40\\Program40.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program40\\Program40.cs",
+              "RelativeToolTip": "Program40\\Program40.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:51:50.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program39.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program39\\Program39.cs",
+              "RelativeDocumentMoniker": "Program39\\Program39.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program39\\Program39.cs",
+              "RelativeToolTip": "Program39\\Program39.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:51:16.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program38.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program38\\Program38.cs",
+              "RelativeDocumentMoniker": "Program38\\Program38.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program38\\Program38.cs",
+              "RelativeToolTip": "Program38\\Program38.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:50:35.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program37.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program37\\Program37.cs",
+              "RelativeDocumentMoniker": "Program37\\Program37.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Program37\\Program37.cs",
+              "RelativeToolTip": "Program37\\Program37.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:50:04.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program36.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Programa36\\Program36.cs",
+              "RelativeDocumentMoniker": "Programa36\\Program36.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo8\\Programa36\\Program36.cs",
+              "RelativeToolTip": "Programa36\\Program36.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:49:12.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

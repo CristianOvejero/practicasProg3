@@ -1,0 +1,15 @@
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\bin\Debug\net10.0\Program40.exe
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\bin\Debug\net10.0\Program40.deps.json
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\bin\Debug\net10.0\Program40.runtimeconfig.json
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\bin\Debug\net10.0\Program40.dll
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\bin\Debug\net10.0\Program40.pdb
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.AssemblyInfoInputs.cache
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.AssemblyInfo.cs
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.csproj.CoreCompileInputs.cache
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.sourcelink.json
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.dll
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\refint\Program40.dll
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.pdb
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\Program40.genruntimeconfig.cache
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo8\Program40\obj\Debug\net10.0\ref\Program40.dll

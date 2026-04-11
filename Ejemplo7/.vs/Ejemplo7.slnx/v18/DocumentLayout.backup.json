@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72B7962F-8218-4CB8-8E93-F21BEB650293}|Program33\\Program33.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo7\\program33\\program33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72B7962F-8218-4CB8-8E93-F21BEB650293}|Program33\\Program33.csproj|solutionrelative:program33\\program33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Programa34\\Program34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Programa34\\Program34.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA500C7E-562F-4FE4-AA70-73BD8AA7B337}|Program32\\Program32.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo7\\program32\\program32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA500C7E-562F-4FE4-AA70-73BD8AA7B337}|Program32\\Program32.csproj|solutionrelative:program32\\program32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program33\\Program33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program33\\Program33.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0D68638-9255-4754-AC7C-21A4D8E5BDCA}|Program31\\Program31.csproj|c:\\users\\cami\\desktop\\nueva carpeta\\practicasprog3\\ejemplo7\\program31\\program31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0D68638-9255-4754-AC7C-21A4D8E5BDCA}|Program31\\Program31.csproj|solutionrelative:program31\\program31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program32\\Program32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program32\\Program32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program35\\Program35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program35\\Program35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program31\\Program31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program31\\Program31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program33.cs",
-              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program33\\Program33.cs",
-              "RelativeDocumentMoniker": "Program33\\Program33.cs",
-              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program33\\Program33.cs",
-              "RelativeToolTip": "Program33\\Program33.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program31.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program31\\Program31.cs",
+              "RelativeDocumentMoniker": "Program31\\Program31.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program31\\Program31.cs",
+              "RelativeToolTip": "Program31\\Program31.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T02:15:24.188Z",
+              "WhenOpened": "2026-04-11T02:08:01.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program32.cs",
               "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program32\\Program32.cs",
               "RelativeDocumentMoniker": "Program32\\Program32.cs",
               "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program32\\Program32.cs",
               "RelativeToolTip": "Program32\\Program32.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T02:09:12.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program31.cs",
-              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program31\\Program31.cs",
-              "RelativeDocumentMoniker": "Program31\\Program31.cs",
-              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program31\\Program31.cs",
-              "RelativeToolTip": "Program31\\Program31.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program33.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program33\\Program33.cs",
+              "RelativeDocumentMoniker": "Program33\\Program33.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program33\\Program33.cs",
+              "RelativeToolTip": "Program33\\Program33.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T02:08:01.347Z",
+              "WhenOpened": "2026-04-11T02:15:24.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program34.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Programa34\\Program34.cs",
+              "RelativeDocumentMoniker": "Programa34\\Program34.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Programa34\\Program34.cs",
+              "RelativeToolTip": "Programa34\\Program34.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:29:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program35.cs",
+              "DocumentMoniker": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program35\\Program35.cs",
+              "RelativeDocumentMoniker": "Program35\\Program35.cs",
+              "ToolTip": "C:\\Users\\CAMI\\Desktop\\Nueva carpeta\\practicasProg3\\Ejemplo7\\Program35\\Program35.cs",
+              "RelativeToolTip": "Program35\\Program35.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:35:01.417Z",
               "EditorCaption": ""
             }
           ]
