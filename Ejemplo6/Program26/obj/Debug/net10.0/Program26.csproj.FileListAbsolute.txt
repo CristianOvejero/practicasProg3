@@ -1,0 +1,15 @@
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\bin\Debug\net10.0\Program26.exe
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\bin\Debug\net10.0\Program26.deps.json
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\bin\Debug\net10.0\Program26.runtimeconfig.json
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\bin\Debug\net10.0\Program26.dll
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\bin\Debug\net10.0\Program26.pdb
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.AssemblyInfoInputs.cache
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.AssemblyInfo.cs
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.csproj.CoreCompileInputs.cache
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.sourcelink.json
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.dll
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\refint\Program26.dll
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.pdb
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\Program26.genruntimeconfig.cache
+C:\Users\CAMI\Desktop\Nueva carpeta\practicasProg3\Ejemplo6\Program26\obj\Debug\net10.0\ref\Program26.dll
