@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Ejemplo01/Ejemplo01.csproj" />
+  <Project Path="Ejemplo02/Ejemplo02.csproj" />
+  <Project Path="Ejemplo03/Ejemplo03.csproj" />
+  <Project Path="Ejemplo04/Ejemplo04.csproj" />
+  <Project Path="Ejemplo05/Ejemplo05.csproj" />
+  <Project Path="Ejercicio01/Ejercicio01.csproj" />
+</Solution>
