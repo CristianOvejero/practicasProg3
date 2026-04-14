@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A90EDF79-2EF3-4825-AA34-35D142BDD8CF}|Ejercicio02\\Ejercicio02.csproj|c:\\users\\pc\\desktop\\nueva carpeta\\practicasprog3\\arreglosarrays\\ejercicio02\\ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90EDF79-2EF3-4825-AA34-35D142BDD8CF}|Ejercicio02\\Ejercicio02.csproj|solutionrelative:ejercicio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24402F35-BC50-42FB-BA8D-8FBB8B44DC66}|Ejemplo01\\Ejemplo01.csproj|c:\\users\\pc\\desktop\\nueva carpeta\\practicasprog3\\arreglosarrays\\ejercicio02\\ejemplo01\\ejemplo01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24402F35-BC50-42FB-BA8D-8FBB8B44DC66}|Ejemplo01\\Ejemplo01.csproj|solutionrelative:ejemplo01\\ejemplo01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9136C51-2DAE-42CA-AA38-8454044E4B08}|Ejemplo02\\Ejemplo02.csproj|c:\\users\\pc\\desktop\\nueva carpeta\\practicasprog3\\arreglosarrays\\ejercicio02\\ejemplo02\\ejemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9136C51-2DAE-42CA-AA38-8454044E4B08}|Ejemplo02\\Ejemplo02.csproj|solutionrelative:ejemplo02\\ejemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74289DE-1243-4A6A-B615-8813BFAF9888}|Ejemplo03\\Ejemplo03.csproj|c:\\users\\pc\\desktop\\nueva carpeta\\practicasprog3\\arreglosarrays\\ejercicio02\\ejemplo03\\ejemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74289DE-1243-4A6A-B615-8813BFAF9888}|Ejemplo03\\Ejemplo03.csproj|solutionrelative:ejemplo03\\ejemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3348698-3640-4A65-BE36-06D24D005CF6}|Ejemplo04\\Ejemplo04.csproj|c:\\users\\pc\\desktop\\nueva carpeta\\practicasprog3\\arreglosarrays\\ejercicio02\\ejemplo04\\ejemplo04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3348698-3640-4A65-BE36-06D24D005CF6}|Ejemplo04\\Ejemplo04.csproj|solutionrelative:ejemplo04\\ejemplo04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8669076A-29BA-4C67-AEB9-9E2524C01C60}|Ejemplo05\\Ejemplo05.csproj|c:\\users\\pc\\desktop\\nueva carpeta\\practicasprog3\\arreglosarrays\\ejercicio02\\ejemplo05\\ejemplo05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8669076A-29BA-4C67-AEB9-9E2524C01C60}|Ejemplo05\\Ejemplo05.csproj|solutionrelative:ejemplo05\\ejemplo05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejercicio02\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio02\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejercicio02\\Program.cs",
+              "RelativeToolTip": "Ejercicio02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T19:54:39.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejemplo01.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo01\\Ejemplo01.cs",
+              "RelativeDocumentMoniker": "Ejemplo01\\Ejemplo01.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo01\\Ejemplo01.cs",
+              "RelativeToolTip": "Ejemplo01\\Ejemplo01.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:55:05.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejemplo02.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo02\\Ejemplo02.cs",
+              "RelativeDocumentMoniker": "Ejemplo02\\Ejemplo02.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo02\\Ejemplo02.cs",
+              "RelativeToolTip": "Ejemplo02\\Ejemplo02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:59:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejemplo03.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo03\\Ejemplo03.cs",
+              "RelativeDocumentMoniker": "Ejemplo03\\Ejemplo03.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo03\\Ejemplo03.cs",
+              "RelativeToolTip": "Ejemplo03\\Ejemplo03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:03:21.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejemplo04.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo04\\Ejemplo04.cs",
+              "RelativeDocumentMoniker": "Ejemplo04\\Ejemplo04.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo04\\Ejemplo04.cs",
+              "RelativeToolTip": "Ejemplo04\\Ejemplo04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:07:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejemplo05.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo05\\Ejemplo05.cs",
+              "RelativeDocumentMoniker": "Ejemplo05\\Ejemplo05.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Nueva carpeta\\practicasProg3\\arreglosArrays\\Ejercicio02\\Ejemplo05\\Ejemplo05.cs",
+              "RelativeToolTip": "Ejemplo05\\Ejemplo05.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:09:56.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

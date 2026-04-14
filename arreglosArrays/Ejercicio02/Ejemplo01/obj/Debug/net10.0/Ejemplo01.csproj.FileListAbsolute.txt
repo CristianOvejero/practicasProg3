@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\bin\Debug\net10.0\Ejemplo01.exe
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\bin\Debug\net10.0\Ejemplo01.deps.json
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\bin\Debug\net10.0\Ejemplo01.runtimeconfig.json
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\bin\Debug\net10.0\Ejemplo01.dll
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\bin\Debug\net10.0\Ejemplo01.pdb
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.AssemblyInfo.cs
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.sourcelink.json
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.dll
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\refint\Ejemplo01.dll
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.pdb
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\Ejemplo01.genruntimeconfig.cache
+C:\Users\PC\Desktop\Nueva carpeta\practicasProg3\arreglosArrays\Ejercicio02\Ejemplo01\obj\Debug\net10.0\ref\Ejemplo01.dll
